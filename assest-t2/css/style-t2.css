@@ -1,0 +1,28 @@
+body{
+    
+    background-color: #8e44ad;
+}
+.container{ 
+    font-family: 'Roboto Mono', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    gap: 60px;
+}
+.container_icon{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.container_icon i{
+    font-size: 60px;
+}
+.counter{
+    font-size: 80px;
+    margin-top: 15px;
+}
+.text{
+    font-size: large;
+}
